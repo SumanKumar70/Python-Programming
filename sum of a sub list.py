@@ -1,0 +1,5 @@
+l=input("Enter the list between[]")
+lst=eval(l)
+start=int(input("Enter the start index:"))
+stop=int(input("Enter the stop index:"))
+print=("Sum=",sum(lst[stop:stop+1:l]))
